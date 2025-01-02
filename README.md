@@ -142,4 +142,5 @@ This project is licensed under the MIT License.
 ## For Contact:
 
 ps3threee@gmail.com
-![LinkedIN](https://www.linkedin.com/in/pankaj-sharma-925b2b250/)
+https://www.linkedin.com/in/pankaj-sharma-925b2b250/
+
