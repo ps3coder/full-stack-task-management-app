@@ -18,6 +18,14 @@ This project is a full-stack web application designed to manage users, menu item
 - **Database Interaction**: Efficient data handling with Prisma ORM and MongoDB.  
 
 ---
+## Screen shots
+
+![Login Page](https://github.com/ps3coder/Project_images_url/blob/main/Screenshot%202025-01-02%20222724.png)
+![Home Page](https://github.com/ps3coder/Project_images_url/blob/main/Screenshot%202025-01-02%20222746.png)
+![Order Page](https://github.com/ps3coder/Project_images_url/blob/main/Screenshot%202025-01-02%20222753.png)
+![API Calls](https://github.com/ps3coder/Project_images_url/blob/main/Screenshot%202025-01-02%20222838.png)
+![local storage cookies](https://github.com/ps3coder/Project_images_url/blob/main/Screenshot%202025-01-02%20223036.png)
+
 
 ## Tech Stack  
 
@@ -118,18 +126,11 @@ root/
 ## Usage  
 
 1. **User Registration & Login**:  
-   - Register a new user or log in through the `/auth` route.  
+   - Register a new user or log in through the `/register & /login` route.  
 2. **Menu Operations**:  
    - Browse the menu, add items to the cart, and manage orders.  
 3. **Admin Features**:  
    - Admins can update, delete, or add menu items via the admin panel.  
-
----
-
-## Future Enhancements  
-- Implement real-time updates using WebSockets.  
-- Add payment integration for orders.  
-- Create analytics for admin users to track sales and user activity.  
 
 ---
 
@@ -138,4 +139,6 @@ This project is licensed under the MIT License.
 
 ---  
 
-Let me know if you'd like to adjust anything!
+## For Contact:
+
+ps3threee@gmail.com
